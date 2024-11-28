@@ -80,19 +80,19 @@ main {
 }
 
 .current-temperature-emoji {
-  font-size: 44px;
-  margin-top: 22px;
+  width: 88px;
+  height: 88px;
 }
 
 .current-temperature-value {
   font-size: 80px;
-  margin-left: 10;
+  line-height: 88px;
   font-weight: 700;
 }
 
 .current-temperature-unit {
   font-size: 28px;
-  margin-top: 15px;
+  margin-top: 6px;
 }
 
 footer {
